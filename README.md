@@ -1,3 +1,3 @@
 # React JS Tutorial
 
-✅ [Tutorial found here](https://www.youtube.com/DaveGrayTeachesCode).
+✅ [Tutorial found here](https://youtu.be/RVFAyFWO4go).
